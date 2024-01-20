@@ -3,7 +3,6 @@ package dev.intro;
 import dev.intro.common.UserRepository;
 import dev.intro.entity.UserRecord;
 import dev.intro.jdbi.JdbiUserRepository;
-import dev.intro.pure.JdbcUserRepository;
 
 import java.util.List;
 
