@@ -1,4 +1,4 @@
-package dev.intro.function;
+package dev.intro.pure.function;
 
 import java.sql.Connection;
 

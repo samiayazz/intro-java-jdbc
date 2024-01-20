@@ -1,6 +1,6 @@
-package dev.intro.util;
+package dev.intro.pure.util;
 
-import dev.intro.function.ExecuteSqlStatementFunction;
+import dev.intro.pure.function.ExecuteSqlStatementFunction;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
